@@ -27,7 +27,9 @@ const TrafficLight = () => {
         backgroundColor: color,
         textAlign: "center",
       }}
-    ></div>
+    >
+      bulb
+    </div>
   );
 };
 
